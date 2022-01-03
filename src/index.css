@@ -1,0 +1,7 @@
+.menu-active{
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+.get-started:hover{
+  background-color: rgb(200, 200, 212) ;
+}
